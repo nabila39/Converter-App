@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ass2</string>
+    <string name="unit">cm</string>
+    <string name="fullname">Centimetre</string>
+
+    <string-array name="Units">
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>kg</item>
+        <item>gm</item>
+        <item>day</item>
+        <item>h</item>
+        <item>min</item>
+        <item>sec</item>
+        <item>L</item>
+        <item>ml</item>
+    </string-array>
+
+    <string-array name="FullName">
+        <item>Centimetre</item>
+        <item>Metre</item>
+        <item>Kilometre</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Day</item>
+        <item>Hour</item>
+        <item>Minutes </item>
+        <item>Second</item>
+        <item>Litre</item>
+        <item>Millilitre</item>
+    </string-array>
+
+
+</resources>
